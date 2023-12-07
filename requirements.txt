@@ -1,0 +1,9 @@
+pandas
+plotly
+ipykernel
+lingua-language-detector
+scikit-learn
+kaleido
+nbformat
+matplotlib
+nbconvert
