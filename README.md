@@ -2,4 +2,4 @@
 
 
 - for data wrangling, see [project.ipynb](./project.ipynb)
-- for data story see [story.ipynb](./story.ipynb) and website
+- for data story see [story.ipynb](./story.ipynb) and [website](https://liuyulo.github.io/d25/)
